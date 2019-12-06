@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tzvetan Marinov   tzvetanmarinov@yahoo.com   @awesometz
 
 # THANKS
 
